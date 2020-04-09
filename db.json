@@ -1,8 +1,8 @@
-{"produk":[{"merek":"supra","harga":5500000,"image":"https://images.app.goo.gl/oMv8D6nkpVVeBQUWA"},
-           {"merek":"mio","harga":3400000,"image":"https://images.app.goo.gl/oMv8D6nkpVVeBQUWA"},
-           {"merek":"NMax","harga":2500000,"image":"https://images.app.goo.gl/oMv8D6nkpVVeBQUWA"},
-           {"merek":"Shogun","harga":3400000,"image":"https://images.app.goo.gl/oMv8D6nkpVVeBQUWA"},
-           {"merek":"Satria","harga":1400000,"image":"https://images.app.goo.gl/oMv8D6nkpVVeBQUWA"}]
+{"produk":[{"merek":"supra","harga":5500000,"image":"supra.png"},
+           {"merek":"mio","harga":3400000,"image":"supra.png"},
+           {"merek":"NMax","harga":2500000,"image":"supra.png"},
+           {"merek":"Shogun","harga":3400000,"supra.png"},
+           {"merek":"Satria","harga":1400000,"supra.png"}]
                             
                             "
                             
